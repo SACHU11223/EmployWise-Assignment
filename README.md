@@ -31,7 +31,7 @@ The project includes **authentication, beautiful UI animations, and advanced fil
 ---
 
 ## 🚀 Live Demo
-🔗 **[View Live Project](#)**
+🔗 **https://employwisein.netlify.app/login**
 
 📂 **GitHub Repo:** 
     (https://github.com/SACHU11223/EmployWise-Assignment) 
